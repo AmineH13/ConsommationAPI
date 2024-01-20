@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="marron">#8B4513</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Last_Movie_app_MVVM_RETROFIT_API</string>
+    <style name="Base.Theme.Last_Movie_app_MVVM_RETROFIT_API" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Last_Movie_app_MVVM_RETROFIT_API" parent="Base.Theme.Last_Movie_app_MVVM_RETROFIT_API"/>
+</resources>
